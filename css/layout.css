@@ -690,7 +690,7 @@ footer .copyright {
 /* Go To Top Button */
 #go-top {
 	position: fixed;
-	bottom: 300px;
+	bottom: 1000px;
    right: 30px;
    text-align: center;
    display: none;
