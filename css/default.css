@@ -806,3 +806,8 @@ border-radius: 20px;
 .cite-source{
   font-size: 8px;
 }
+
+iframe{
+  height: 800px;
+  width: 100%;
+}
