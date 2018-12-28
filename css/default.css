@@ -804,7 +804,8 @@ border-radius: 20px;
 }
 
 .cite-source{
-  font-size: 8px;
+  font-size: 9px;
+  vertical-align: super;
 }
 
 iframe{
