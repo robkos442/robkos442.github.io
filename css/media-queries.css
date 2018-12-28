@@ -190,24 +190,18 @@
 
    /* sub menu	 */
 	ul#nav ul {
-		position: static; /* change position to static */
+		position: static; 
 		border-radius: none;
 		border: none;
 		padding-bottom: 0;
-
-
-
 	}
-
-
-
-
 	/* sub menu anchor links */
 	ul#nav ul li a { padding: 6px 15px 6px 8px; }
 
 	/* on hover */
 	ul#nav li.has-children:active > a:after a:hover {
 		content: "-";
+		display: block;
 
 	}
 
