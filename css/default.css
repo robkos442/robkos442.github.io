@@ -821,3 +821,7 @@ iframe{
 .definitions{
   text-align: center;
 }
+
+.yt-video{
+  float: right;
+}
